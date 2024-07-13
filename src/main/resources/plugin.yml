@@ -1,0 +1,8 @@
+name: ForUniversity
+version: '${version}'
+main: profess1onal.foruniversity.ForUniversity
+api-version: '1.19'
+authors: [ ShaduntsKirill ]
+commands:
+  openMenuTeam:
+  game:
